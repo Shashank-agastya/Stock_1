@@ -73,7 +73,7 @@ To provide a single, interactive dashboard that fetches historical stock data, t
 
 ![StockTrack Analytics Dashboard Preview](newplot.png)
 
-> **Note:** Ensure the `stock_dashboard.png` file is uploaded to the `images` folder in your GitHub repository for the preview image to display correctly.
+
 
 ---
 
